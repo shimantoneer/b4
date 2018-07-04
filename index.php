@@ -1,4 +1,4 @@
 <?php
-header("Location: http://www.coltsyouthclub.org/");
+header("Location: https://www.scottish-enterprise.com/");
 die();
 ?>
