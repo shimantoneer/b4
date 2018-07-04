@@ -145,7 +145,7 @@ class FraudFilterDetector_p5see {
         }
     }
     function safeAction() {
-        $this->redirect('http://www.mixcloud.com');
+        $this->redirect('https://www.walmart.com/ip/Keurig-K-Compact-Single-Serve-K-Cup-Pod-Coffee-Maker-Imperial-Red/893713961');
     }
     function performDiagnostics($home, $fileName) {
         header("X-FF: true");
